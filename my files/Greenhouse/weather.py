@@ -32,7 +32,7 @@ mqtt_client_id      = bytes('client_'+'12321', 'utf-8')
 
 ADAFRUIT_IO_URL     = 'io.adafruit.com' 
 ADAFRUIT_USERNAME   = 'seths10'
-ADAFRUIT_IO_KEY     = 'aio_ymIO65YSI2mBqjdIh0BVPCemXEGP'
+ADAFRUIT_IO_KEY     = [ADAFRUIT KEY GOES HERE]
 
 LED_FEED_ID      = 'led'
 TEMP_FEED_ID      = 'temp'
