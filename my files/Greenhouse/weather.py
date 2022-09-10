@@ -25,7 +25,7 @@ i2c = SoftI2C(scl=Pin(22), sda=Pin(21), freq=10000)
 lcd = I2cLcd(i2c, I2C_ADDR, totalRows, totalColumns)
 
 
-WIFI_SSID     = 'iotdevlab+virus'
+WIFI_SSID     = [WIFI SSID GOES HERE]
 WIFI_PASSWORD = 'm,./@1234'
 
 mqtt_client_id      = bytes('client_'+'12321', 'utf-8')
