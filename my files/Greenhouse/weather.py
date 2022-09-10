@@ -26,12 +26,12 @@ lcd = I2cLcd(i2c, I2C_ADDR, totalRows, totalColumns)
 
 
 WIFI_SSID     = [WIFI SSID GOES HERE]
-WIFI_PASSWORD = 'm,./@1234'
+WIFI_PASSWORD = [WIFI PASSWORD GOES HERE] 
 
 mqtt_client_id      = bytes('client_'+'12321', 'utf-8')
 
 ADAFRUIT_IO_URL     = 'io.adafruit.com' 
-ADAFRUIT_USERNAME   = 'seths10'
+ADAFRUIT_USERNAME   = [ADAFRUIT USERNAME GOES HERE]
 ADAFRUIT_IO_KEY     = [ADAFRUIT KEY GOES HERE]
 
 LED_FEED_ID      = 'led'
