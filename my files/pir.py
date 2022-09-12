@@ -15,5 +15,5 @@ while True:
     print("PIR_SENSOR DATA: " , pir_sensor())
     print("PUSH BUTTON DATA: " , button_push())
     print(" ")
-    time.sleep(2)
+    time.sleep(5)
     
