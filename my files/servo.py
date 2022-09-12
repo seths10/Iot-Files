@@ -31,7 +31,7 @@ while True:
     s.angle(100)
     time.sleep(2)
     s.angle(0)
-    time.sleep(1)
+    time.sleep(5)
 #  
 #  
 #
