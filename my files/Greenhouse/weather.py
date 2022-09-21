@@ -1,3 +1,5 @@
+# This project was built to relieve farmers of common farming processes like irrigation, temperature control, etc
+
 from machine import Pin, Timer, SoftI2C
 from lcd_api import LcdApi
 from i2c_lcd import I2cLcd
